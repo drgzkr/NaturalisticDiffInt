@@ -1,0 +1,17 @@
+data/raw/
+data/processed/
+results/figures/
+results/tables/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+*.npy
+*.pkl
+*.h5
+*.pt
+*.pth
